@@ -1,0 +1,17 @@
+16
+Truck, Toyota, 4, 10.0, 4, Tundra, 4, 3265, Pickup
+Bicycle, Trek, 2, Skye SLX, 10, 110, true, true
+Sedan, Hyundai, 4, 24, 5, Sonata, Family, 4, 180
+MotorCycle, BMW, 2, R18, 761, 50, 91
+Truck, Honda, 4, 10.0, 4, Ridgeline, 4, 3270, Flatbed
+Bicycle, Scott, 2, Hangsun, 9, 150, true, true
+Sedan, Volvo, 4, 32, 5, CX90, Luxury, 4, 210
+MotorCycle, Kawasaki, 2, Ninja, 700, 53, 88
+Truck, Penske, 8, 10.0, 2, Biggie, 8, 13265, Semi
+Bicycle, Lekker, 2, Jordaan, 5, 200, true, false
+Sedan, Honda, 4, 27, 4, Civic, Small, 4, 150
+MotorCycle, Yamaha, 2, SR400, 662, 54, 89
+Truck, Mitsubishi, 4, 10.0, 2, Teeny, 2, 2000, Mini
+Bicycle, Trek, 2, Skye SLXEL, 10, 310, true, true
+Sedan, Genesis, 4, 20, 5, G90, Large, 4, 280
+MotorCycle, Suzuki, 2, GSXR, 500, 55, 100
